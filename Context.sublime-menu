@@ -1,0 +1,5 @@
+[
+   { "caption": "-" },
+   { "caption": "Send to SandBox", "command": "send_selection" },
+   { "caption": "-" }
+]
