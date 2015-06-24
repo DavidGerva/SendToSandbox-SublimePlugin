@@ -6,7 +6,7 @@ Right now you can (and must) just specify a single file in the \ProgramFiles\Sub
 
 In this file, once you've sent something to it, you'll find all your texts, with a "title" (in markdown style) that is the name of the file where those lines were originally. At the end of the filename you'll find the line-numbers of the original lines.
 
-This is a beta version, just to understand if someone needs it. I need it, and if I'm not the only one I'll improve it.
+This is a test version, just to understand if someone needs it. I need it, and if I'm not the only one I'll improve it.
 Feel free to send me advise or anything to davidgerva@gmail.com
 
 
@@ -35,6 +35,6 @@ ToDo
 ChangeLog
 =========
 
-SendToSandbox - 0.1.0
+SendToSandbox - 1.0.0
 ---------------------
-- First "beta" Release
+- First "test" Release

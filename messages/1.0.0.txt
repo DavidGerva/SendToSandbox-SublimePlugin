@@ -1,4 +1,4 @@
-SendToSandbox - 0.1.0
+SendToSandbox - 1.0.0
 =====================
 
 The idea of this plugin is to use a file as a _SandBox_. A file to which you send "stuff" you want remember or just you wanna store
