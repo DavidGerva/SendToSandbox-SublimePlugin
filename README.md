@@ -14,9 +14,10 @@ Usage
 -----
 Just decide the file you want to use as sandbox and put it in the SendToSandbox.sublime-settings file, for example:
 
-   {
-      "file": "c:\\Temp\\SublimeSandbox.txt"
-   }
+
+    {
+       "file": "c:\\Temp\\SublimeSandbox.txt"
+    }
 
 From sublime you can now select text from any window and send this text to your sandbox using a right mouse button click, Send to sandbox.
 
