@@ -29,7 +29,8 @@ ToDo
 ----
 - Allow multiple file specification
 - Allow both append and insert in the file
-
+- Add a command to open the sandbox in sublime
+- Add a shortcut to the sendtosandbox command
 
 
 ChangeLog
